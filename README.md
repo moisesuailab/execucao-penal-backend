@@ -16,7 +16,7 @@ $ cd youtube-curso-react-materialui-typescript
 
 Instale as dependências
 ```
-$ yarn install
+$ npm install
 ```
 
 Configure as variáveis ambiente, crie o arquivo `.env` na pasta raiz do projeto coloque o conteúdo a seguir dentro
